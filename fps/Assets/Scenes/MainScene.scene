@@ -223,6 +223,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 83575444}
+  cam: {fileID: 223193617}
 --- !u!114 &83575446
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -236,6 +237,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
+  lockSensitivity: 8
   controller: {fileID: 83575445}
 --- !u!1 &223193614
 GameObject:
